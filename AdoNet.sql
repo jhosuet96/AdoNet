@@ -16,5 +16,4 @@ Go
  )
  GO
 
- truncate table Suplidor
  SELECT  * FROM Suplidor 

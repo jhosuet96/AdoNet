@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AdoNet.Service
 {
-   public class Util
+    public class Util
     {
 
         public Suplidor SuplidorCreate(Suplidor suplidor)
